@@ -38,17 +38,11 @@
 
 ### About
 
-Hai — saya **Mochammad Fiqi Fahrudillah**, mahasiswa Teknik Informatika di Tangerang. Sehari-hari lebih banyak di **frontend (React / Next.js)** dan **Python**, kadang turun ke **AWS** atau ngerakit API kalau projeknya butuh.
+Hai, saya **Mochammad Fiqi Fahrudillah**, mahasiswa Teknik Informatika di Tangerang. Sehari hari lebih banyak di **frontend (React / Next.js)** dan **Python**, kadang turun ke **AWS** atau ngerakit API kalau projeknya butuh.
 
-Yang pernah dikerjain kurang lebih:
-- migrasi sistem Laravel → React
-- platform web berbasis Next.js (termasuk streaming anime + auth/admin)
-- Flask API untuk model klasifikasi (deteksi karies gigi anak)
-- pipeline NLP: scrape review, TF-IDF + Linear SVM, ringkasan tema pakai LLM (IBM Granite)
+Stack yang paling sering kepakai: **TypeScript, Next.js, Tailwind, Node.js, MongoDB, Python (scikit learn / Pandas), AWS**.
 
-Stack yang paling sering kepakai: **TypeScript, Next.js, Tailwind, Node.js, MongoDB, Python (scikit-learn / Pandas), AWS**.
-
-Kalau lagi ngulik, biasanya soal UI yang rapi, API yang gampang di-maintain, atau model ML yang beneran bisa di-serve — bukan cuma notebook.
+Kalau lagi ngulik, biasanya soal UI yang rapi, API yang gampang di maintain, atau model ML yang beneran bisa di serve, bukan cuma notebook.
 
 ---
 
