@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=680&height=90&lines=building+reliable+web+products;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AWS" alt="Mochammad Fiqi Fahrudillah — React, Next.js, Python, AWS" />
+    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=680&height=90&lines=backend+%C2%B7+API+%C2%B7+OutSystems;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AWS" alt="Mochammad Fiqi Fahrudillah — backend, API, OutSystems, React, Next.js, Python, AWS" />
   </a>
 </p>
 
@@ -38,11 +38,11 @@
 
 ### About
 
-Hai, saya **Mochammad Fiqi Fahrudillah**, mahasiswa Teknik Informatika di Tangerang. Sehari hari lebih banyak di **frontend (React / Next.js)** dan **Python**, kadang turun ke **AWS** atau ngerakit API kalau projeknya butuh.
+Hai, saya **Mochammad Fiqi Fahrudillah**, mahasiswa Teknik Informatika di Tangerang. Background utamanya **frontend (React / Next.js)** dan **Python**, plus sesekali **AWS**.
 
-Stack yang paling sering kepakai: **TypeScript, Next.js, Tailwind, Node.js, MongoDB, Python (scikit learn / Pandas), AWS**.
+Akhir akhir ini lebih sering ngulik **backend** karena tuntutan kerjaan: API, service layer, data flow, hal hal yang bikin sistem stabil di belakang layar. Sambil itu juga lagi belajar **low code OutSystems**.
 
-Kalau lagi ngulik, biasanya soal UI yang rapi, API yang gampang di maintain, atau model ML yang beneran bisa di serve, bukan cuma notebook.
+Stack yang paling sering kepakai: **TypeScript, Next.js, Node.js, MongoDB, Python, AWS, OutSystems**.
 
 ---
 
