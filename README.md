@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=680&height=90&lines=backend+%C2%B7+API+%C2%B7+OutSystems;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AWS" alt="Mochammad Fiqi Fahrudillah — backend, API, OutSystems, React, Next.js, Python, AWS" />
+    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=680&height=90&lines=TypeScript+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Next.js;Node.js+%C2%B7+Python+%C2%B7+MongoDB+%C2%B7+AWS" alt="Mochammad Fiqi Fahrudillah — TypeScript, JavaScript, React, Next.js, Node.js, Python, MongoDB, AWS" />
   </a>
 </p>
 
