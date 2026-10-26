@@ -38,7 +38,7 @@
 
 ### About
 
-Hai, aku Fiqi. Mahasiswa Teknik Informatika di Tangerang. Background utamanya **frontend (React / Next.js)** dan **Python**, plus sesekali **AWS**.
+Hai, aku Fiqi. Mahasiswa Teknik Informatika domisili sekarang di Tangerang. Background utamaku tuh **fullstack web dev (React / Next.js)** dan **Python**, plus sesekali **AWS**.
 
 Akhir akhir ini lebih sering ngulik **backend** karena tuntutan kerjaan: API, service layer, data flow, hal hal yang bikin sistem stabil di belakang layar. Sambil itu juga lagi belajar **low code OutSystems**.
 
