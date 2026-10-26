@@ -38,11 +38,11 @@
 
 ### About
 
-Hai, aku Fiqi. Mahasiswa Teknik Informatika domisili sekarang di Tangerang. Background utamaku tuh **fullstack web dev (React / Next.js)** dan **Python**, plus sesekali **AWS**.
+Hey, I'm Fiqi. Informatics Engineering student, currently based in Tangerang. My main background is **fullstack web dev (React / Next.js)** and **Python**, plus a bit of **AWS** here and there.
 
-Akhir akhir ini lebih sering ngulik **backend** karena tuntutan kerjaan: API, service layer, data flow, hal hal yang bikin sistem stabil di belakang layar. Sambil itu juga lagi belajar **low code OutSystems**.
+Lately I've been diving more into **backend** because of work: APIs, service layers, data flow, the stuff that keeps systems stable behind the scenes. On the side I'm also learning **low code OutSystems**.
 
-Stack yang paling sering kepakai: **TypeScript, Next.js, Node.js, MongoDB, Python, AWS, OutSystems**.
+Stack I use the most: **TypeScript, Next.js, Node.js, MongoDB, Python, AWS, OutSystems**.
 
 ---
 
