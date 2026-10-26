@@ -36,13 +36,19 @@
 
 ---
 
-### About Mochammad Fiqi Fahrudillah
+### About
 
-I'm **Mochammad Fiqi Fahrudillah** (often **Fiqi Fahrudillah**), an Informatics Engineering student and builder based in **Tangerang, Indonesia**. I design and ship **reliable web products** with clear UI, clean architecture, and thoughtful performance — spanning **front-end (React / Next.js)**, **APIs & cloud (AWS)**, and **applied machine learning**.
+Hai — saya **Mochammad Fiqi Fahrudillah**, mahasiswa Teknik Informatika di Tangerang. Sehari-hari lebih banyak di **frontend (React / Next.js)** dan **Python**, kadang turun ke **AWS** atau ngerakit API kalau projeknya butuh.
 
-I care about simple systems, clean product design, and measurable outcomes: from migrating Laravel apps to React, building Next.js aggregation platforms, to engineering Flask APIs for ML models and large-scale sentiment analysis pipelines.
+Yang pernah dikerjain kurang lebih:
+- migrasi sistem Laravel → React
+- platform web berbasis Next.js (termasuk streaming anime + auth/admin)
+- Flask API untuk model klasifikasi (deteksi karies gigi anak)
+- pipeline NLP: scrape review, TF-IDF + Linear SVM, ringkasan tema pakai LLM (IBM Granite)
 
-**Focus areas:** Full-Stack Web Development · Product-minded Engineering · Cloud & API Integrations · Applied Machine Learning (NLP / classification)
+Stack yang paling sering kepakai: **TypeScript, Next.js, Tailwind, Node.js, MongoDB, Python (scikit-learn / Pandas), AWS**.
+
+Kalau lagi ngulik, biasanya soal UI yang rapi, API yang gampang di-maintain, atau model ML yang beneran bisa di-serve — bukan cuma notebook.
 
 ---
 
@@ -110,9 +116,10 @@ More on the portfolio: [fiqiportofolio.vercel.app](https://fiqiportofolio.vercel
 ---
 
 <p align="center">
-  <i>Looking to collaborate on web products, cloud integrations, or applied ML?</i><br/>
-  Reach me via <a href="https://www.linkedin.com/in/fiqi-fahrudillah-5bbb51311/">LinkedIn</a>
-  or browse work at <a href="https://fiqiportofolio.vercel.app">fiqiportofolio.vercel.app</a>
+  Open for kolaborasi / diskusi teknis — hubungi lewat
+  <a href="https://www.linkedin.com/in/fiqi-fahrudillah-5bbb51311/">LinkedIn</a>
+  · portfolio:
+  <a href="https://fiqiportofolio.vercel.app">fiqiportofolio.vercel.app</a>
 </p>
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=5499C7&height=2" />
