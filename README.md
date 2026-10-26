@@ -1,87 +1,118 @@
-<!-- decorative top rule -->
+<!-- SEO / personal branding: name-first. Username SoraIroShiro is only the handle. -->
+
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=5499C7&height=2" />
 
-<!-- banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5F0FA,50:A8D4F0,100:5499C7&height=220&section=header&text=SoraIroShiro&fontSize=52&fontColor=1a5276&fontAlignY=35&desc=sky%20·%20color%20·%20white&descSize=18&descAlignY=55&animation=fadeIn" alt="SoraIroShiro banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:E5F0FA,50:A8D4F0,100:5499C7&height=240&section=header&text=Fiqi%20Fahrudillah&fontSize=48&fontColor=1a5276&fontAlignY=32&desc=Mochammad%20Fiqi%20Fahrudillah%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20ML&descSize=15&descAlignY=52&animation=fadeIn"
+    alt="Mochammad Fiqi Fahrudillah — Full-Stack Developer, Cloud & Machine Learning Engineer from Tangerang, Indonesia"
+  />
+</p>
+
+<h1 align="center">Mochammad Fiqi Fahrudillah</h1>
+
+<p align="center">
+  <b>Full-Stack Developer · Cloud · Machine Learning</b><br/>
+  Informatics Engineering · Tangerang, Indonesia
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=28&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=640&height=100&lines=full-stack+%C2%B7+cloud+%C2%B7+machine+learning;building+reliable+web+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2200&pause=1800&color=5499C7&background=E5F0FA00&center=true&vCenter=true&multiline=true&width=680&height=90&lines=building+reliable+web+products;React+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+AWS" alt="Mochammad Fiqi Fahrudillah — React, Next.js, Python, AWS" />
   </a>
 </p>
 
 <p align="center">
-  <b>Mochammad Fiqi Fahrudillah</b><br/>
-  Informatics Engineering · Tangerang City<br/>
-  <a href="https://fiqiportofolio.vercel.app">Portfolio</a>
+  <a href="https://fiqiportofolio.vercel.app"><strong>Portfolio</strong></a>
   ·
-  <a href="https://www.linkedin.com/in/fiqi-fahrudillah-5bbb51311/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/fiqi-fahrudillah-5bbb51311/"><strong>LinkedIn</strong></a>
   ·
   <a href="https://github.com/KogniFX">KogniFX</a>
   ·
-  <a href="https://github.com/maxwell-enterprise">Maxwell</a>
+  <a href="https://github.com/maxwell-enterprise">Maxwell Enterprise</a>
+  ·
+  <code>@SoraIroShiro</code>
+</p>
+
+---
+
+### About Mochammad Fiqi Fahrudillah
+
+I'm **Mochammad Fiqi Fahrudillah** (often **Fiqi Fahrudillah**), an Informatics Engineering student and builder based in **Tangerang, Indonesia**. I design and ship **reliable web products** with clear UI, clean architecture, and thoughtful performance — spanning **front-end (React / Next.js)**, **APIs & cloud (AWS)**, and **applied machine learning**.
+
+I care about simple systems, clean product design, and measurable outcomes: from migrating Laravel apps to React, building Next.js aggregation platforms, to engineering Flask APIs for ML models and large-scale sentiment analysis pipelines.
+
+**Focus areas:** Full-Stack Web Development · Product-minded Engineering · Cloud & API Integrations · Applied Machine Learning (NLP / classification)
+
+---
+
+### Featured work
+
+| Project | Role & stack | Outcome |
+| --- | --- | --- |
+| [**Soranime**](https://github.com/SoraIroShiro/soranime) | Next.js · TypeScript · MongoDB · Tailwind · AniList GraphQL | Modern anime streaming product with auth, admin, and Drive-backed video |
+| [**Genshin Player Sentiment Analysis**](https://github.com/SoraIroShiro/Analisis-Sentimen-Pemain-Genshin-Impact-Menggunakan-SVM-dan-IBM-granite-LLM-Api) | Python · TF-IDF · Linear SVM · IBM Granite LLM | Scraped ~40k Google Play reviews; lexicon labeling, classifier, themes & insights |
+| [**PERUMGO**](https://github.com/SoraIroShiro/PERUMGO) | TypeScript · modern web | Web product / aggregation platform work |
+| [**Anime Scraper for Soranime**](https://github.com/SoraIroShiro/Anime_scraper_for_soranime) | Python · scraping pipelines | Data pipeline feeding the Soranime product |
+
+More on the portfolio: [fiqiportofolio.vercel.app](https://fiqiportofolio.vercel.app)
+
+---
+
+### Tech stack
+
+<p align="center">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss3%2Cjavascript%2Ctypescript%2Creact%2Cnextjs%2Ctailwindcss%2Cnodejs%2Cpython%2Cflask%2Cmongodb%2Cmysql%2Caws%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cwindows&bg=%23ffffff&color=%235499c7" alt="Tech stack of Mochammad Fiqi Fahrudillah: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, Python, Flask, MongoDB, MySQL, AWS, Docker, Git" />
 </p>
 
 <p align="center">
-  who builds reliable web products with clear UI, clean architecture, and thoughtful performance.
-</p>
-
-<p align="center">
-  <!-- skills: aligned with portfolio + repos -->
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss3%2Cjavascript%2Ctypescript%2Creact%2Cnextjs%2Ctailwindcss%2Cnodejs%2Cpython%2Cflask%2Cmongodb%2Cmysql%2Caws%2Cdocker%2Cgit%2Cgithub%2Clinux%2Cwindows&bg=%23ffffff&color=%235499c7" alt="skills" />
-</p>
-
-<p align="center">
-  <!-- widgets -->
   <table>
     <thead>
       <tr>
         <th colspan="2">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="profile details" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="GitHub profile details for Mochammad Fiqi Fahrudillah (SoraIroShiro)" />
         </th>
         <th>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="repos per language" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="Repositories per language — Mochammad Fiqi Fahrudillah" />
         </th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="most commit language" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="Most used commit languages — Fiqi Fahrudillah" />
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="GitHub stats — Mochammad Fiqi Fahrudillah" />
         </td>
         <td>
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&utcOffset=7&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="productive time" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SoraIroShiro&theme=holi&animation=sequence&duration=5&utcOffset=7&title_color=1a5276&text_color=1a5276&bg_color=e5f0fa&border_color=5499c7&icon_color=5499c7&chart_color=5499c7" alt="Productive hours (WIB) — Fiqi Fahrudillah" />
         </td>
       </tr>
     </tbody>
   </table>
 </p>
 
-### featured work
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [**soranime**](https://github.com/SoraIroShiro/soranime) | Next.js · TypeScript · MongoDB | Anime streaming platform (AniList + Drive) |
-| [**Sentiment Analysis — Genshin**](https://github.com/SoraIroShiro/Analisis-Sentimen-Pemain-Genshin-Impact-Menggunakan-SVM-dan-IBM-granite-LLM-Api) | Python · SVM · IBM Granite | 40k Play reviews → TF-IDF + Linear SVM + LLM themes |
-| [**PERUMGO**](https://github.com/SoraIroShiro/PERUMGO) | TypeScript | Web product / aggregation work |
-| [**Anime scraper**](https://github.com/SoraIroShiro/Anime_scraper_for_soranime) | Python | Scraper pipeline for Soranime |
+### Activity
 
 <p align="center">
-  <!-- contributions graph (generated by GitHub Action) -->
-  <img src="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/main/profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/main/profile-3d-contrib/profile-customize.svg" alt="3D GitHub contribution graph of Mochammad Fiqi Fahrudillah" width="100%" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/output/github-contribution-grid-snake.svg" />
-    <img alt="snake contribution animation" src="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/output/github-contribution-grid-snake.svg" width="100%" />
+    <img alt="Animated contribution snake — Mochammad Fiqi Fahrudillah (SoraIroShiro)" src="https://raw.githubusercontent.com/SoraIroShiro/SoraIroShiro/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>Looking to collaborate on web products, cloud integrations, or applied ML?</i><br/>
+  Reach me via <a href="https://www.linkedin.com/in/fiqi-fahrudillah-5bbb51311/">LinkedIn</a>
+  or browse work at <a href="https://fiqiportofolio.vercel.app">fiqiportofolio.vercel.app</a>
 </p>
 
 <img width="100%" height="2" alt="" src="https://capsule-render.vercel.app/api?type=rect&color=5499C7&height=2" />
